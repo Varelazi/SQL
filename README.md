@@ -16,7 +16,7 @@
 
 ## About Me
 
-![Ilene Varela-Zul](./images/cartoonimage.jpeg)
+<img src="./images/cartoonimage.jpeg" alt="Ilene Varela-Zul" width="200" height="200"/>
 
 Hello! My name is Ilene Varela-Zul (eye-lean va-re-la zool).
 
@@ -24,13 +24,12 @@ I am passionate about data analytics and continuously strive to enhance my skill
 
 Here's a link to my portfolio website, which showcases my other experiences: [Ilene's Portfolio](https://ilenes-portfolio.onrender.com/)
 
-![Flower Border](./images/flowerborder.png)
-
+<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
 
 ## Introduction 
 This portfolio showcases various SQL projects I've learned and worked on, ranging from basic queries to complex data analysis tasks.
 
-![Flower Border](./images/flowerborder.png)
+<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
 
 </div>
 
@@ -44,7 +43,11 @@ This portfolio showcases various SQL projects I've learned and worked on, rangin
   - **Description**: This project involves analyzing sales data from a fictional superstore. It includes table creation, data insertion, and a series of SQL queries to extract meaningful insights.
   - **Skills Demonstrated**: Data modeling, data cleaning, complex querying, performance optimization.
 
-![Flower Border](./images/flowerborder.png)
+<div align="center">
+
+<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
+
+</div>
 
 <div align="center">
 
@@ -58,6 +61,6 @@ Feel free to reach out to me through any of the following methods:
 
 I look forward to connecting with you!
 
-![Flower Border](./images/flowerborder.png)
+<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
 
 </div>
