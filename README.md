@@ -46,7 +46,9 @@ This portfolio showcases various SQL projects I've learned and worked on, rangin
 Feel free to reach out to me through any of the following methods:
 
 **Email:** [ivarelazul@gmail.com](mailto:ivarelazul@gmail.com)
+
 **LinkedIn:** [Varelazi](https://www.linkedin.com/in/varelazi/)
+
 **Website/Portfolio:** [Portfolio](https://ilenes-portfolio.onrender.com/)
 
 I look forward to connecting with you!
