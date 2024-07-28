@@ -24,12 +24,8 @@ I am passionate about data analytics and continuously strive to enhance my skill
 
 Here's a link to my portfolio website, which showcases my other experiences: [Ilene's Portfolio](https://ilenes-portfolio.onrender.com/)
 
-<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
-
 ## Introduction 
 This portfolio showcases various SQL projects I've learned and worked on, ranging from basic queries to complex data analysis tasks.
-
-<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
 
 </div>
 
@@ -45,12 +41,6 @@ This portfolio showcases various SQL projects I've learned and worked on, rangin
 
 <div align="center">
 
-<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
-
-</div>
-
-<div align="center">
-
 ## Contact Me
 
 Feel free to reach out to me through any of the following methods:
@@ -60,7 +50,5 @@ Feel free to reach out to me through any of the following methods:
 - **Website/Portfolio:** [Portfolio](https://ilenes-portfolio.onrender.com/)
 
 I look forward to connecting with you!
-
-<img src="./images/flowerborder.png" alt="Flower Border" width="55" height="55"/>
 
 </div>
